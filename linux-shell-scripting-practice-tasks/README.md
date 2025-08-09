@@ -21,15 +21,15 @@
 ---
 
 ## Techmologies used
-- Bash Shell (GNU Bash)
+- Bash Shell
 - Linux Commands:
-    uptime
-    df
-    lscpu
-    free
-    last
-    tar
-    top
+    uptime,
+    df,
+    lscpu,
+    free,
+    last,
+    tar,
+    top.
 
   ---
 
