@@ -35,10 +35,10 @@
 
   ## Learning Outcomes
   By completing these tasks, you will:
-✔ Understand how to automate system monitoring.
-✔ Learn file redirection and output formatting.
-✔ Gain hands-on experience with Linux commands.
-✔ Build a base for mini-projects like automated backups, log monitoring, and server health checks.
+  ✔ Understand how to automate system monitoring.
+  ✔ Learn file redirection and output formatting.
+  ✔ Gain hands-on experience with Linux commands.
+  ✔ Build a base for mini-projects like automated backups, log monitoring, and server health checks.
 
 
 
